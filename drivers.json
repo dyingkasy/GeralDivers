@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "POS-80",
+        "url": "https://baixesoft.com/servidor_download_drivers/POS-Printer-Driver.exe",
+        "grupo": "Não Fiscal",
+        "checksum": ""
+    },
+    {
+        "nome": "Epson TM-T20/TM-T20X",
+        "url": "https://www.bztech.com.br/arquivos/driver-epson-tm-t20-tm-t20x.zip",
+        "grupo": "Não Fiscal",
+        "checksum": ""
+    },
+    {
+        "nome": "Elgin",
+        "url": "https://www.bztech.com.br/arquivos/driver-elgin-i7-i8-e-i9-windows-e-linux.zip",
+        "grupo": "Não Fiscal",
+        "checksum": ""
+    },
+    {
+        "nome": "Bematech",
+        "url": "https://www.bztech.com.br/arquivos/driver-bematech-mp-4200.zip",
+        "grupo": "A4",
+        "checksum": ""
+    }
+
+]
