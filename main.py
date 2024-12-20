@@ -44,7 +44,26 @@ DEFAULT_DRIVERS = [
     {
         "nome": "Bematech",
         "url": "https://www.bztech.com.br/arquivos/driver-bematech-mp-4200.zip",
-        "grupo": "A4",
+        "grupo": "Não Fiscal",
+        "checksum": ""
+    },
+    {
+        "nome": "Control-ID",
+        "url": "https://www.controlid.com.br/printid/DriverPrintiD_Windows.zip",
+        "grupo": "Não Fiscal",
+        "checksum": ""
+    },
+    {
+        "nome": "Oi-Vida",
+        "url": "https://oividaimportadora.com.br/pos58-driver-testado-58mm/",
+        "grupo": "Não Fiscal",
+        "checksum": ""
+    },
+
+    {
+        "nome": "Tomate",
+        "url": "https://dl.dropboxusercontent.com/scl/fi/m7ezv0ll1p8c3injjmvos/MDK-006PrinterDriverInstall_V1.04.exe?rlkey=7wljdpd4v6dwr43dwzj9nk0hd&st=wdykqc8d&dl=1",
+        "grupo": "Não Fiscal",
         "checksum": ""
     }
 ]
